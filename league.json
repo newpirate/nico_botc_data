@@ -173,6 +173,57 @@
       "active": true
     }
   ],
-  "games": [],
+  "games": [
+    {
+      "id": "1786261511000931",
+      "league": "league_0",
+      "ended": "2026-08-09T15:45:11.000931",
+      "title": "亡古魔开3刀！？",
+      "winner": "evil",
+      "mvp": null,
+      "seats": [
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mt1chf7g3446",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1bfkzw66ac",
+          "side": "evil",
+          "i": 5
+        },
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "evil",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bffbd6d7e",
+          "side": "good",
+          "i": 7
+        }
+      ]
+    }
+  ],
   "adjustments": []
 }
