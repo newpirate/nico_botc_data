@@ -175,6 +175,66 @@
   ],
   "games": [
     {
+      "id": "1786282122335241",
+      "league": "league_0",
+      "ended": "2026-08-09T21:28:42.335241",
+      "title": "💃Alan🕺Terry无间道？",
+      "winner": "evil",
+      "mvp": "p_mt1bcw4ncf00",
+      "seats": [
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1batjc0dc2",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1chf7g3446",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mt1bb5jpc49e",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "evil",
+          "i": 4
+        },
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mt1bdygcf6f0",
+          "side": "evil",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "evil",
+          "i": 8
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 9
+        }
+      ]
+    },
+    {
       "id": "1786272008577338",
       "league": "league_0",
       "ended": "2026-08-09T18:40:08.577338",
