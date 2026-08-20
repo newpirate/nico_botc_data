@@ -175,6 +175,66 @@
   ],
   "games": [
     {
+      "id": "1786272008577338",
+      "league": "league_0",
+      "ended": "2026-08-09T18:40:08.577338",
+      "title": "普然洗衣妇carry",
+      "winner": "good",
+      "mvp": "p_mt1bbctf6890",
+      "seats": [
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bdygcf6f0",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "evil",
+          "i": 2
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "evil",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bb5jpc49e",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "evil",
+          "i": 5
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bfp4bb162",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1chf7g3446",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "good",
+          "i": 9
+        }
+      ]
+    },
+    {
       "id": "1786266844146410",
       "league": "league_0",
       "ended": "2026-08-09T17:14:04.146410",
