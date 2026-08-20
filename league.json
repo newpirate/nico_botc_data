@@ -175,6 +175,71 @@
   ],
   "games": [
     {
+      "id": "1786290880752266",
+      "league": "league_0",
+      "ended": "2026-08-09T23:54:40.752266",
+      "title": "最肮脏的城镇公告员",
+      "winner": "good",
+      "mvp": "p_mt1b8ufjd3b9",
+      "seats": [
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bb0qb7b5d",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "evil",
+          "i": 2
+        },
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bb5jpc49e",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1bdygcf6f0",
+          "side": "evil",
+          "i": 5
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "evil",
+          "i": 7
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt1batjc0dc2",
+          "side": "good",
+          "i": 9
+        },
+        {
+          "p": "p_mt1chf7g3446",
+          "side": "good",
+          "i": 10
+        }
+      ]
+    },
+    {
       "id": "1786282122335241",
       "league": "league_0",
       "ended": "2026-08-09T21:28:42.335241",
