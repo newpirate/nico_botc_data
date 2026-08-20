@@ -175,6 +175,66 @@
   ],
   "games": [
     {
+      "id": "1786266844146410",
+      "league": "league_0",
+      "ended": "2026-08-09T17:14:04.146410",
+      "title": "Max的普卡“僧侣”",
+      "winner": "evil",
+      "mvp": "p_mt1bbctf6890",
+      "seats": [
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "evil",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bffbd6d7e",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1bfkzw66ac",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "evil",
+          "i": 6
+        },
+        {
+          "p": "p_mt1chf7g3446",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1bdygcf6f0",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "evil",
+          "i": 9
+        }
+      ]
+    },
+    {
       "id": "1786261511000931",
       "league": "league_0",
       "ended": "2026-08-09T15:45:11.000931",
