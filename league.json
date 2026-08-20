@@ -175,6 +175,66 @@
   ],
   "games": [
     {
+      "id": "1786879972558290",
+      "league": "league_0",
+      "ended": "2026-08-16T19:32:52.558290",
+      "title": "不知道怎样赢的新手恶魔",
+      "winner": "evil",
+      "mvp": "p_mt1baikn95bd",
+      "seats": [
+        {
+          "p": "p_mt1bbw5u3d81",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bbkk35a56",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "evil",
+          "i": 2
+        },
+        {
+          "p": "p_mt1bd21e90a8",
+          "side": "evil",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bckfr6a88",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1bezq63a52",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "evil",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt1bcrjpc4c5",
+          "side": "good",
+          "i": 9
+        }
+      ]
+    },
+    {
       "id": "1786290880752266",
       "league": "league_0",
       "ended": "2026-08-09T23:54:40.752266",
