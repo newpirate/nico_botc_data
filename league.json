@@ -175,6 +175,66 @@
   ],
   "games": [
     {
+      "id": "1786895617049522",
+      "league": "league_0",
+      "ended": "2026-08-16T23:53:37.049522",
+      "title": "呆瓜点中守夜人，守夜人1敌3锁定小恶魔",
+      "winner": "good",
+      "mvp": "p_mt1bffbd6d7e",
+      "seats": [
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1bffbd6d7e",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mt1bcrjpc4c5",
+          "side": "evil",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1batjc0dc2",
+          "side": "evil",
+          "i": 5
+        },
+        {
+          "p": "p_mt1bju88157f",
+          "side": "evil",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bbkk35a56",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 9
+        }
+      ]
+    },
+    {
       "id": "1786891815341766",
       "league": "league_0",
       "ended": "2026-08-16T22:50:15.341766",
