@@ -175,6 +175,61 @@
   ],
   "games": [
     {
+      "id": "1786891815341766",
+      "league": "league_0",
+      "ended": "2026-08-16T22:50:15.341766",
+      "title": "Max竟被两新女选中",
+      "winner": "evil",
+      "mvp": "p_mt1bbw5u3d81",
+      "seats": [
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mt1bbkk35a56",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bbw5u3d81",
+          "side": "evil",
+          "i": 4
+        },
+        {
+          "p": "p_mt1bju88157f",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mt1batjc0dc2",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bckfr6a88",
+          "side": "evil",
+          "i": 7
+        },
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "good",
+          "i": 8
+        }
+      ]
+    },
+    {
       "id": "1786879972558290",
       "league": "league_0",
       "ended": "2026-08-16T19:32:52.558290",
