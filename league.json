@@ -1,0 +1,178 @@
+{
+  "v": 1,
+  "tournaments": [
+    {
+      "id": "league_0",
+      "name": "预热赛季",
+      "nameEn": "Training League",
+      "active": true,
+      "created": "2026-08-20T17:15:27.751076"
+    }
+  ],
+  "players": [
+    {
+      "id": "p_mt1b83hve3e0",
+      "name": "Crystal",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1b8ufjd3b9",
+      "name": "Loon",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1b8z8ke010",
+      "name": "Alan",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1baikn95bd",
+      "name": "MaxC",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1baobq6dcf",
+      "name": "MaxPng",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1batjc0dc2",
+      "name": "Max Tiong",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bb0qb7b5d",
+      "name": "Kenny",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bb5jpc49e",
+      "name": "Amanda",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bbctf6890",
+      "name": "普然",
+      "nameEn": "Pu Ran",
+      "active": true
+    },
+    {
+      "id": "p_mt1bbgrk600e",
+      "name": "Wei",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bbkk35a56",
+      "name": "Regan",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bbp2f4e1c",
+      "name": "Xiang Xin",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bbw5u3d81",
+      "name": "思华",
+      "nameEn": "Si Hua",
+      "active": true
+    },
+    {
+      "id": "p_mt1bcgkr2eb7",
+      "name": "Wardell",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bckfr6a88",
+      "name": "Joey",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bcrjpc4c5",
+      "name": "FarFar",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bcw4ncf00",
+      "name": "Terry",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1chf7g3446",
+      "name": "Wei Kit",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bd21e90a8",
+      "name": "Li Wen",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bdygcf6f0",
+      "name": "Loi Zhen",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bezq63a52",
+      "name": "Lily",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bffbd6d7e",
+      "name": "Cindy",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bfkzw66ac",
+      "name": "Yen",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bfp4bb162",
+      "name": "Thomas",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bhme249d7",
+      "name": "王文亮",
+      "nameEn": "WangWenLiang",
+      "active": true
+    },
+    {
+      "id": "p_mt1bjn5y9213",
+      "name": "Jason",
+      "nameEn": "",
+      "active": true
+    },
+    {
+      "id": "p_mt1bju88157f",
+      "name": "Geezing",
+      "nameEn": "",
+      "active": true
+    }
+  ],
+  "games": [],
+  "adjustments": []
+}
