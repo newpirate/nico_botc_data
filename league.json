@@ -223,6 +223,76 @@
   ],
   "games": [
     {
+      "id": "1787477348215240",
+      "league": "league_0",
+      "ended": "2026-08-23T17:29:08.215240",
+      "title": "两个占卜师？",
+      "winner": "evil",
+      "mvp": "p_mt1bbctf6890",
+      "seats": [
+        {
+          "p": "p_mt4hkizgea6d",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt4hkx8l4808",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt5hnsno3cf6",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt4hl6bucdeb",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1bcw4ncf00",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mt1bhme249d7",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "evil",
+          "i": 7
+        },
+        {
+          "p": "p_mt4hmd0nac46",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt5hngrd3335",
+          "side": "evil",
+          "i": 9
+        },
+        {
+          "p": "p_mt4hlwzy77db",
+          "side": "good",
+          "i": 10
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "evil",
+          "i": 11
+        }
+      ]
+    },
+    {
       "id": "1787472407812345",
       "league": "league_0",
       "ended": "2026-08-23T16:06:47.812345",
