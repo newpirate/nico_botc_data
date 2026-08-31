@@ -255,11 +255,11 @@
   "games": [
     {
       "id": "1788112685174686",
-      "league": "league_0",
+      "league": "league_1",
       "ended": "2026-08-31T01:58:05.174686",
       "title": "",
       "winner": "good",
-      "mvp": "p_mtfccceo0823",
+      "mvp": null,
       "seats": [
         {
           "p": "p_mt1bb0qb7b5d",
