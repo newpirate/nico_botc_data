@@ -254,6 +254,91 @@
   ],
   "games": [
     {
+      "id": "1788103373617771",
+      "league": "league_1",
+      "ended": "2026-08-30T23:22:53.617771",
+      "title": "",
+      "winner": "good",
+      "mvp": null,
+      "seats": [
+        {
+          "p": "p_mtfccceo0823",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1b8z8ke010",
+          "side": "evil",
+          "i": 1
+        },
+        {
+          "p": "p_mt1bb0qb7b5d",
+          "side": "evil",
+          "i": 2
+        },
+        {
+          "p": "p_mtfccqyc41b2",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bb5jpc49e",
+          "side": "evil",
+          "i": 4
+        },
+        {
+          "p": "p_mtfcagbd7756",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mt4hkizgea6d",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mtfcbew64b2c",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mtfcbqzd82ea",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mt1b83hve3e0",
+          "side": "evil",
+          "i": 9
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 10
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 11
+        },
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "good",
+          "i": 12
+        },
+        {
+          "p": "p_mt1bffbd6d7e",
+          "side": "good",
+          "i": 13
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "evil",
+          "i": 14
+        }
+      ]
+    },
+    {
       "id": "1788083428142289",
       "league": "league_0",
       "ended": "2026-08-30T17:50:28.142289",
