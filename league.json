@@ -7,6 +7,13 @@
       "nameEn": "Training League",
       "active": true,
       "created": "2026-08-20T17:15:27.751076"
+    },
+    {
+      "id": "league_1",
+      "name": "国庆厮杀局",
+      "nameEn": "",
+      "active": true,
+      "created": "2026-08-31T22:36:57.612365"
     }
   ],
   "players": [
