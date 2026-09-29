@@ -193,7 +193,7 @@
         "drunk": false,
         "align": null,
         "pid": null,
-        "rem": []
+        "rem": [{ "l": "第五天", "s": "leviathan" }]
       },
       {
         "name": "Jiayi",
@@ -686,7 +686,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": []
+          "rem": [{ "l": "第一天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
@@ -869,7 +869,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": []
+          "rem": [{ "l": "第一天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
@@ -1055,7 +1055,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": []
+          "rem": [{ "l": "第二天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
@@ -1253,7 +1253,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": []
+          "rem": [{ "l": "第二天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
@@ -1456,7 +1456,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": []
+          "rem": [{ "l": "第三天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
@@ -1665,6 +1665,7 @@
           "align": null,
           "pid": null,
           "rem": [
+            { "l": "第三天", "s": "leviathan" },
             { "l": "不会死亡", "s": "innkeeper" },
             { "l": "醉酒", "s": "innkeeper" }
           ]
@@ -1875,7 +1876,10 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": [{ "l": "醉酒", "s": "innkeeper" }]
+          "rem": [
+            { "l": "第四天", "s": "leviathan" },
+            { "l": "醉酒", "s": "innkeeper" }
+          ]
         },
         {
           "name": "Jiayi",
@@ -2085,7 +2089,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": [{ "l": "不会死亡", "s": "innkeeper" }]
+          "rem": [{ "l": "第四天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
@@ -2295,7 +2299,7 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": [{ "l": "不会死亡", "s": "innkeeper" }]
+          "rem": [{ "l": "第五天", "s": "leviathan" }]
         },
         {
           "name": "Jiayi",
