@@ -91,7 +91,7 @@
       },
       {
         "name": "Puran",
-        "char": "witch",
+        "char": "chiikawa_witch",
         "traveller": false,
         "alive": true,
         "ghost": false,
@@ -231,7 +231,7 @@
         },
         {
           "name": "Puran",
-          "char": "witch",
+          "char": "chiikawa_witch",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -318,7 +318,7 @@
         },
         {
           "name": "Puran",
-          "char": "witch",
+          "char": "chiikawa_witch",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -407,7 +407,7 @@
         },
         {
           "name": "Puran",
-          "char": "witch",
+          "char": "chiikawa_witch",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -496,7 +496,7 @@
         },
         {
           "name": "Puran",
-          "char": "witch",
+          "char": "chiikawa_witch",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -585,7 +585,7 @@
         },
         {
           "name": "Puran",
-          "char": "witch",
+          "char": "chiikawa_witch",
           "traveller": false,
           "alive": true,
           "ghost": false,
