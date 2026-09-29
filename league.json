@@ -291,6 +291,66 @@
   ],
   "games": [
     {
+      "id": "1789896049719610",
+      "league": "league_0",
+      "ended": "2026-09-20T17:20:49.719610",
+      "title": "普然恶魔被舞走，carry好人",
+      "winner": "good",
+      "mvp": "p_mt1bbctf6890",
+      "seats": [
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "evil",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mumhmvite6bf",
+          "side": "evil",
+          "i": 2
+        },
+        {
+          "p": "p_mumhmitb7a3f",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt4hkizgea6d",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mumhq6ek627c",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mumhmnp9147d",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mt1bcgkr2eb7",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1bb0qb7b5d",
+          "side": "evil",
+          "i": 8
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 9
+        }
+      ]
+    },
+    {
       "id": "1788112685174686",
       "league": "league_1",
       "ended": "2026-08-31T01:58:05.174686",
