@@ -291,6 +291,71 @@
   ],
   "games": [
     {
+      "id": "1789913050084728",
+      "league": "league_2",
+      "ended": "2026-09-20T22:04:10.084728",
+      "title": "Max被色诱的局",
+      "winner": "evil",
+      "mvp": null,
+      "seats": [
+        {
+          "p": "p_mtfcbew64b2c",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "evil",
+          "i": 1
+        },
+        {
+          "p": "p_mt4hkizgea6d",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mumhmitb7a3f",
+          "side": "good",
+          "i": 3
+        },
+        {
+          "p": "p_mt1bb0qb7b5d",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mt1baikn95bd",
+          "side": "good",
+          "i": 5
+        },
+        {
+          "p": "p_mumhn2e82262",
+          "side": "evil",
+          "i": 6
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "evil",
+          "i": 7
+        },
+        {
+          "p": "p_mumhmnp9147d",
+          "side": "good",
+          "i": 8
+        },
+        {
+          "p": "p_mumhmvite6bf",
+          "side": "good",
+          "i": 9
+        },
+        {
+          "p": "p_mumhq6ek627c",
+          "side": "good",
+          "i": 10
+        }
+      ]
+    },
+    {
       "id": "1789902567661195",
       "league": "league_2",
       "ended": "2026-09-20T19:09:27.661195",
