@@ -72,7 +72,7 @@
       },
       {
         "name": "Kenny",
-        "char": "al_hadikhia",
+        "char": "alhadikhia",
         "traveller": false,
         "alive": true,
         "ghost": false,
@@ -126,7 +126,7 @@
       },
       {
         "name": "Jiarong",
-        "char": "snake_charmer",
+        "char": "snakecharmer",
         "traveller": false,
         "alive": false,
         "ghost": false,
@@ -314,17 +314,17 @@
     "bluffs": ["damsel", "professor", "huntsman"],
     "startedAt": "2026-09-20T20:10:39.556743",
     "bag": [
-      "poppy_grower",
+      "poppygrower",
       "farmer",
       "cannibal",
-      "snake_charmer",
+      "snakecharmer",
       "noble",
       "fisherman",
       "balloonist",
       "savant",
       "psychopath",
       "mezepheles",
-      "al_hadikhia"
+      "alhadikhia"
     ],
     "draw": [],
     "seatmode": "random",
@@ -380,7 +380,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -392,7 +392,7 @@
         },
         {
           "name": "Max",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -428,7 +428,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -514,7 +514,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -526,7 +526,7 @@
         },
         {
           "name": "Max",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -562,7 +562,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -648,7 +648,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -660,7 +660,7 @@
         },
         {
           "name": "Max",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -696,7 +696,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -788,7 +788,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -800,7 +800,7 @@
         },
         {
           "name": "Max",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -836,7 +836,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -934,7 +934,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -985,7 +985,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1085,7 +1085,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1136,7 +1136,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1238,7 +1238,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1290,7 +1290,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1393,7 +1393,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1445,7 +1445,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1551,7 +1551,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1604,7 +1604,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1711,7 +1711,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1764,7 +1764,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1871,7 +1871,7 @@
         },
         {
           "name": "Kenny",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1925,7 +1925,7 @@
         },
         {
           "name": "Jiarong",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,

@@ -61,7 +61,7 @@
       },
       {
         "name": "Chai",
-        "char": "pit_hag",
+        "char": "pithag",
         "traveller": false,
         "alive": false,
         "ghost": true,
@@ -121,7 +121,7 @@
       },
       {
         "name": "Max",
-        "char": "snake_charmer",
+        "char": "snakecharmer",
         "traveller": false,
         "alive": false,
         "ghost": true,
@@ -160,7 +160,7 @@
       },
       {
         "name": "Wardell",
-        "char": "poppy_grower",
+        "char": "poppygrower",
         "traveller": false,
         "alive": false,
         "ghost": false,
@@ -313,17 +313,17 @@
     "bluffs": ["farmer", "barber", "savant"],
     "startedAt": "2026-09-20T17:34:29.163399",
     "bag": [
-      "snake_charmer",
+      "snakecharmer",
       "fisherman",
       "huntsman",
       "balloonist",
-      "poppy_grower",
+      "poppygrower",
       "noble",
       "professor",
       "damsel",
       "cannibal",
       "psychopath",
-      "pit_hag",
+      "pithag",
       "vigormortis"
     ],
     "draw": [],
@@ -368,7 +368,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -416,7 +416,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -452,7 +452,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -514,7 +514,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -562,7 +562,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -598,7 +598,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -660,7 +660,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -711,7 +711,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -750,7 +750,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -812,7 +812,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -863,7 +863,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -902,7 +902,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -968,7 +968,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -1026,7 +1026,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1065,7 +1065,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1131,7 +1131,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1189,7 +1189,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1228,7 +1228,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1294,7 +1294,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1353,7 +1353,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1392,7 +1392,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1458,7 +1458,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1517,7 +1517,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1556,7 +1556,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1622,7 +1622,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1682,7 +1682,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1721,7 +1721,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": false,
           "ghost": false,
@@ -1787,7 +1787,7 @@
         },
         {
           "name": "Chai",
-          "char": "pit_hag",
+          "char": "pithag",
           "traveller": false,
           "alive": false,
           "ghost": true,
@@ -1847,7 +1847,7 @@
         },
         {
           "name": "Max",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": false,
           "ghost": true,
@@ -1886,7 +1886,7 @@
         },
         {
           "name": "Wardell",
-          "char": "poppy_grower",
+          "char": "poppygrower",
           "traveller": false,
           "alive": false,
           "ghost": false,

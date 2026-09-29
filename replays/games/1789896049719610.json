@@ -33,7 +33,7 @@
       },
       {
         "name": "Puran",
-        "char": "snake_charmer",
+        "char": "snakecharmer",
         "traveller": false,
         "alive": true,
         "ghost": false,
@@ -136,7 +136,7 @@
       },
       {
         "name": "MaxPng",
-        "char": "al_hadikhia",
+        "char": "alhadikhia",
         "traveller": false,
         "alive": false,
         "ghost": false,
@@ -232,11 +232,11 @@
       "savant",
       "cannibal",
       "fisherman",
-      "snake_charmer",
+      "snakecharmer",
       "farmer",
       "mezepheles",
       "psychopath",
-      "al_hadikhia"
+      "alhadikhia"
     ],
     "draw": [],
     "seatmode": "random",
@@ -256,7 +256,7 @@
         },
         {
           "name": "Puran",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -352,7 +352,7 @@
         },
         {
           "name": "MaxPng",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -378,7 +378,7 @@
         },
         {
           "name": "Puran",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -474,7 +474,7 @@
         },
         {
           "name": "MaxPng",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -500,7 +500,7 @@
         },
         {
           "name": "Puran",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -599,7 +599,7 @@
         },
         {
           "name": "MaxPng",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -628,7 +628,7 @@
         },
         {
           "name": "Puran",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -727,7 +727,7 @@
         },
         {
           "name": "MaxPng",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -756,7 +756,7 @@
         },
         {
           "name": "Puran",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -859,7 +859,7 @@
         },
         {
           "name": "MaxPng",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -889,7 +889,7 @@
         },
         {
           "name": "Puran",
-          "char": "snake_charmer",
+          "char": "snakecharmer",
           "traveller": false,
           "alive": true,
           "ghost": false,
@@ -992,7 +992,7 @@
         },
         {
           "name": "MaxPng",
-          "char": "al_hadikhia",
+          "char": "alhadikhia",
           "traveller": false,
           "alive": false,
           "ghost": false,
