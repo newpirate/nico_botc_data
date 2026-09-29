@@ -14,6 +14,13 @@
       "nameEn": "",
       "active": true,
       "created": "2026-08-31T22:36:57.612365"
+    },
+    {
+      "id": "league_2",
+      "name": "九月",
+      "nameEn": "",
+      "active": true,
+      "created": "2026-09-29T17:41:01.810918"
     }
   ],
   "players": [
