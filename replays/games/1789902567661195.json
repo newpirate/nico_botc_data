@@ -1,1 +1,1914 @@
-{"id":"1789902567661195","ended":"2026-09-20T19:09:27.661195","started":"2026-09-20T17:34:29.163399","edition":"midnightoasis","name":"夜半狂欢","nameEn":"Midnight Oasis","seats":12,"days":6,"winner":"good","title":"Grayson善良投毒","league":"league_2","mvpSeat":3,"mvpNote":"关键时刻选中恶魔","state":{"edition":"midnightoasis","isNight":true,"dayCount":6,"lang":"zh","started":false,"players":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""},{"l":"5","s":""},{"l":"12","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":false,"ghost":true,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"custom":["选择以1名玩家","选者2名玩家","他会懂","2 4 1个镇民","你选过谁？","Pikachu"],"history":[{"d":6,"n":true,"t":"🏁 游戏结束 · 善良阵营胜利"},{"d":5,"n":false,"t":"⚖️ 玩家 6 · 亡骨魔 被处决"},{"d":5,"n":false,"t":"🗳️ 玩家2 提名 玩家6\n投票（5 票 / 需 2）：4、8、9、10、12\n→ 玩家6 即将被处决"},{"d":5,"n":false,"t":"💀 玩家 7 · 气球驾驶员 死亡"},{"d":5,"n":true,"t":"💀 玩家 12 · 贵族 死亡"},{"d":5,"n":true,"t":"🧪 玩家 12 · 贵族 中毒"},{"d":5,"n":true,"t":"🧪 玩家 2 · 投毒者 解除中毒"},{"d":4,"n":false,"t":"⚖️ 玩家 3 · 食人族 被处决"},{"d":4,"n":false,"t":"🗳️ 玩家12 提名 玩家3\n投票（4 票 / 需 3）：1、2、6、12\n→ 玩家3 即将被处决"},{"d":4,"n":true,"t":"💀 玩家 5 · 巡山人 死亡"},{"d":3,"n":false,"t":"⚖️ 玩家 4 · 麻脸巫婆 被处决"},{"d":3,"n":false,"t":"🗳️ 玩家4 提名 玩家3\n投票（2 票 / 需 4）：1、2\n→ 玩家3 不会被处决"},{"d":3,"n":false,"t":"🗳️ 玩家12 提名 玩家4\n投票（4 票 / 需 4）：1、2、6、12\n→ 玩家4 即将被处决"},{"d":3,"n":false,"t":"🗳️ 玩家1 提名 玩家7\n投票（0 票 / 需 4）：无\n→ 玩家7 不会被处决"},{"d":3,"n":false,"t":"🔄 玩家 1 · 魔像 现在是邪恶阵营"},{"d":3,"n":true,"t":"💀 玩家 11 · 罂粟种植者 死亡"},{"d":3,"n":true,"t":"🎭 玩家 1 现在是魔像"},{"d":3,"n":true,"t":"选择以1名玩家"},{"d":3,"n":true,"t":"🧪 玩家 2 · 投毒者 中毒"},{"d":2,"n":false,"t":"⚖️ 玩家 8 · 舞蛇人 被处决"},{"d":2,"n":false,"t":"🗳️ 玩家2 提名 玩家12\n投票（0 票 / 需 5）：无\n→ 玩家12 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家6 提名 玩家7\n投票（0 票 / 需 5）：无\n→ 玩家7 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家11 提名 玩家1\n投票（1 票 / 需 5）：4\n→ 玩家1 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家1 提名 玩家10\n投票（2 票 / 需 5）：1、8\n→ 玩家10 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家7 提名 玩家4\n投票（2 票 / 需 5）：6、8\n→ 玩家4 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家12 提名 玩家8\n投票（5 票 / 需 5）：1、6、7、11、12\n→ 玩家8 即将被处决"},{"d":2,"n":true,"t":"🔄 玩家 2 · 投毒者 现在是善良阵营"},{"d":2,"n":true,"t":"💀 玩家 9 · 渔夫 死亡"},{"d":2,"n":true,"t":"你是 投毒者 投毒者"},{"d":2,"n":true,"t":"🎭 玩家 2 现在是投毒者"},{"d":1,"n":false,"t":"⚖️ 玩家 10 · 落难少女 被处决"},{"d":1,"n":false,"t":"🗳️ 玩家7 提名 玩家11\n投票（0 票 / 需 6）：无\n→ 玩家11 不会被处决"},{"d":1,"n":false,"t":"🗳️ 玩家2 提名 玩家3\n投票（1 票 / 需 6）：12\n→ 玩家3 不会被处决"},{"d":1,"n":false,"t":"🗳️ 玩家4 提名 玩家12\n投票（4 票 / 需 6）：2、3、4、8\n→ 玩家12 不会被处决"},{"d":1,"n":false,"t":"🗳️ 玩家12 提名 玩家10\n投票（7 票 / 需 6）：1、2、6、7、10、11、12\n→ 玩家10 即将被处决"},{"d":1,"n":false,"t":"这些角色不在场, 农夫, 理发师, 博学者."},{"d":1,"n":true,"t":"落难少女 落难少女 在场"},{"d":1,"n":true,"t":"他是恶魔"},{"d":1,"n":true,"t":"🎭 玩家 11 现在是罂粟种植者"},{"d":1,"n":true,"t":"🎭 玩家 11 现在是酒鬼"}],"noms":[{"d":1,"nom":11,"tgt":9,"v":[10,11,0,1,5,6,9]},{"d":1,"nom":3,"tgt":11,"v":[1,2,3,7]},{"d":1,"nom":1,"tgt":2,"v":[11]},{"d":1,"nom":6,"tgt":10,"v":[]},{"d":2,"nom":11,"tgt":7,"v":[10,11,0,5,6]},{"d":2,"nom":6,"tgt":3,"v":[5,7]},{"d":2,"nom":0,"tgt":9,"v":[0,7]},{"d":2,"nom":10,"tgt":0,"v":[3]},{"d":2,"nom":5,"tgt":6,"v":[]},{"d":2,"nom":1,"tgt":11,"v":[]},{"d":3,"nom":0,"tgt":6,"v":[]},{"d":3,"nom":11,"tgt":3,"v":[5,11,0,1]},{"d":3,"nom":3,"tgt":2,"v":[0,1]},{"d":4,"nom":11,"tgt":2,"v":[5,11,0,1]},{"d":5,"nom":1,"tgt":5,"v":[7,8,9,11,3]}],"bluffs":["farmer","barber","savant"],"startedAt":"2026-09-20T17:34:29.163399","bag":["snake_charmer","fisherman","huntsman","balloonist","poppy_grower","noble","professor","damsel","cannibal","psychopath","pit_hag","vigormortis"],"draw":[],"seatmode":"random","snaps":{"1":[{"name":"玩家 1","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"professor","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"2":[{"name":"玩家 1","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"professor","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"3":[{"name":"玩家 1","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"4":[{"name":"玩家 1","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"5":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"6":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"7":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""},{"l":"5","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"8":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""},{"l":"5","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"9":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""},{"l":"5","s":""},{"l":"12","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":false,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}],"10":[{"name":"玩家 1","char":"golem","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[{"l":"已被猜测","s":"damsel"}]},{"name":"玩家 2","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]},{"name":"玩家 3","char":"cannibal","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"落难","s":""},{"l":"舞蛇","s":""},{"l":"4","s":""}]},{"name":"玩家 4","char":"pit_hag","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2 投毒","s":""},{"l":"1 魔像","s":""}]},{"name":"玩家 5","char":"huntsman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"vigormortis","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"11","s":""},{"l":"5","s":""},{"l":"12","s":""}]},{"name":"玩家 7","char":"balloonist","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"8","s":""},{"l":"2","s":""},{"l":"6","s":""}]},{"name":"玩家 8","char":"snake_charmer","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"11","s":""}]},{"name":"玩家 9","char":"fisherman","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"damsel","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"poppy_grower","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"是酒鬼","s":"drunk"}]},{"name":"玩家 12","char":"noble","traveller":false,"alive":false,"ghost":true,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4 8 10","s":""}]}]}}}
+{
+    "id": "1789902567661195",
+    "ended": "2026-09-20T19:09:27.661195",
+    "started": "2026-09-20T17:34:29.163399",
+    "edition": "midnightoasis",
+    "name": "夜半狂欢",
+    "nameEn": "Midnight Oasis",
+    "seats": 12,
+    "days": 6,
+    "winner": "good",
+    "title": "Grayson善良投毒",
+    "league": "league_2",
+    "mvpSeat": 3,
+    "mvpNote": "关键时刻选中恶魔",
+    "state": {
+      "edition": "midnightoasis",
+      "isNight": true,
+      "dayCount": 6,
+      "lang": "zh",
+      "started": false,
+      "players": [
+        {
+          "name": "Puran",
+          "char": "golem",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": [{ "l": "已被猜测", "s": "damsel" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "good",
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Xuan",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "落难", "s": "" },
+            { "l": "舞蛇", "s": "" },
+            { "l": "4", "s": "" }
+          ]
+        },
+        {
+          "name": "Chai",
+          "char": "pithag",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "2 投毒", "s": "" },
+            { "l": "1 魔像", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiarong",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Kenny",
+          "char": "vigormortis",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "9", "s": "" },
+            { "l": "11", "s": "" },
+            { "l": "5", "s": "" },
+            { "l": "12", "s": "" }
+          ]
+        },
+        {
+          "name": "MaxPng",
+          "char": "balloonist",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "8", "s": "" },
+            { "l": "2", "s": "" },
+            { "l": "6", "s": "" }
+          ]
+        },
+        {
+          "name": "Max",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "11", "s": "" }
+          ]
+        },
+        {
+          "name": "Crystal(2)",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "SB",
+          "char": "damsel",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+        },
+        {
+          "name": "Leon",
+          "char": "noble",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "4 8 10", "s": "" }]
+        }
+      ],
+      "custom": [
+        "选择以1名玩家",
+        "选者2名玩家",
+        "他会懂",
+        "2 4 1个镇民",
+        "你选过谁？",
+        "Pikachu"
+      ],
+      "history": [
+        { "d": 6, "n": true, "t": "🏁 游戏结束 · 善良阵营胜利" },
+        { "d": 5, "n": false, "t": "⚖️ 玩家 6 · 亡骨魔 被处决" },
+        {
+          "d": 5,
+          "n": false,
+          "t": "🗳️ 玩家2 提名 玩家6\n投票（5 票 / 需 2）：4、8、9、10、12\n→ 玩家6 即将被处决"
+        },
+        { "d": 5, "n": false, "t": "💀 玩家 7 · 气球驾驶员 死亡" },
+        { "d": 5, "n": true, "t": "💀 玩家 12 · 贵族 死亡" },
+        { "d": 5, "n": true, "t": "🧪 玩家 12 · 贵族 中毒" },
+        { "d": 5, "n": true, "t": "🧪 玩家 2 · 投毒者 解除中毒" },
+        { "d": 4, "n": false, "t": "⚖️ 玩家 3 · 食人族 被处决" },
+        {
+          "d": 4,
+          "n": false,
+          "t": "🗳️ 玩家12 提名 玩家3\n投票（4 票 / 需 3）：1、2、6、12\n→ 玩家3 即将被处决"
+        },
+        { "d": 4, "n": true, "t": "💀 玩家 5 · 巡山人 死亡" },
+        { "d": 3, "n": false, "t": "⚖️ 玩家 4 · 麻脸巫婆 被处决" },
+        {
+          "d": 3,
+          "n": false,
+          "t": "🗳️ 玩家4 提名 玩家3\n投票（2 票 / 需 4）：1、2\n→ 玩家3 不会被处决"
+        },
+        {
+          "d": 3,
+          "n": false,
+          "t": "🗳️ 玩家12 提名 玩家4\n投票（4 票 / 需 4）：1、2、6、12\n→ 玩家4 即将被处决"
+        },
+        {
+          "d": 3,
+          "n": false,
+          "t": "🗳️ 玩家1 提名 玩家7\n投票（0 票 / 需 4）：无\n→ 玩家7 不会被处决"
+        },
+        { "d": 3, "n": false, "t": "🔄 玩家 1 · 魔像 现在是邪恶阵营" },
+        { "d": 3, "n": true, "t": "💀 玩家 11 · 罂粟种植者 死亡" },
+        { "d": 3, "n": true, "t": "🎭 玩家 1 现在是魔像" },
+        { "d": 3, "n": true, "t": "选择以1名玩家" },
+        { "d": 3, "n": true, "t": "🧪 玩家 2 · 投毒者 中毒" },
+        { "d": 2, "n": false, "t": "⚖️ 玩家 8 · 舞蛇人 被处决" },
+        {
+          "d": 2,
+          "n": false,
+          "t": "🗳️ 玩家2 提名 玩家12\n投票（0 票 / 需 5）：无\n→ 玩家12 不会被处决"
+        },
+        {
+          "d": 2,
+          "n": false,
+          "t": "🗳️ 玩家6 提名 玩家7\n投票（0 票 / 需 5）：无\n→ 玩家7 不会被处决"
+        },
+        {
+          "d": 2,
+          "n": false,
+          "t": "🗳️ 玩家11 提名 玩家1\n投票（1 票 / 需 5）：4\n→ 玩家1 不会被处决"
+        },
+        {
+          "d": 2,
+          "n": false,
+          "t": "🗳️ 玩家1 提名 玩家10\n投票（2 票 / 需 5）：1、8\n→ 玩家10 不会被处决"
+        },
+        {
+          "d": 2,
+          "n": false,
+          "t": "🗳️ 玩家7 提名 玩家4\n投票（2 票 / 需 5）：6、8\n→ 玩家4 不会被处决"
+        },
+        {
+          "d": 2,
+          "n": false,
+          "t": "🗳️ 玩家12 提名 玩家8\n投票（5 票 / 需 5）：1、6、7、11、12\n→ 玩家8 即将被处决"
+        },
+        { "d": 2, "n": true, "t": "🔄 玩家 2 · 投毒者 现在是善良阵营" },
+        { "d": 2, "n": true, "t": "💀 玩家 9 · 渔夫 死亡" },
+        { "d": 2, "n": true, "t": "你是 投毒者 投毒者" },
+        { "d": 2, "n": true, "t": "🎭 玩家 2 现在是投毒者" },
+        { "d": 1, "n": false, "t": "⚖️ 玩家 10 · 落难少女 被处决" },
+        {
+          "d": 1,
+          "n": false,
+          "t": "🗳️ 玩家7 提名 玩家11\n投票（0 票 / 需 6）：无\n→ 玩家11 不会被处决"
+        },
+        {
+          "d": 1,
+          "n": false,
+          "t": "🗳️ 玩家2 提名 玩家3\n投票（1 票 / 需 6）：12\n→ 玩家3 不会被处决"
+        },
+        {
+          "d": 1,
+          "n": false,
+          "t": "🗳️ 玩家4 提名 玩家12\n投票（4 票 / 需 6）：2、3、4、8\n→ 玩家12 不会被处决"
+        },
+        {
+          "d": 1,
+          "n": false,
+          "t": "🗳️ 玩家12 提名 玩家10\n投票（7 票 / 需 6）：1、2、6、7、10、11、12\n→ 玩家10 即将被处决"
+        },
+        { "d": 1, "n": false, "t": "这些角色不在场, 农夫, 理发师, 博学者." },
+        { "d": 1, "n": true, "t": "落难少女 落难少女 在场" },
+        { "d": 1, "n": true, "t": "他是恶魔" },
+        { "d": 1, "n": true, "t": "🎭 玩家 11 现在是罂粟种植者" },
+        { "d": 1, "n": true, "t": "🎭 玩家 11 现在是酒鬼" }
+      ],
+      "noms": [
+        { "d": 1, "nom": 11, "tgt": 9, "v": [10, 11, 0, 1, 5, 6, 9] },
+        { "d": 1, "nom": 3, "tgt": 11, "v": [1, 2, 3, 7] },
+        { "d": 1, "nom": 1, "tgt": 2, "v": [11] },
+        { "d": 1, "nom": 6, "tgt": 10, "v": [] },
+        { "d": 2, "nom": 11, "tgt": 7, "v": [10, 11, 0, 5, 6] },
+        { "d": 2, "nom": 6, "tgt": 3, "v": [5, 7] },
+        { "d": 2, "nom": 0, "tgt": 9, "v": [0, 7] },
+        { "d": 2, "nom": 10, "tgt": 0, "v": [3] },
+        { "d": 2, "nom": 5, "tgt": 6, "v": [] },
+        { "d": 2, "nom": 1, "tgt": 11, "v": [] },
+        { "d": 3, "nom": 0, "tgt": 6, "v": [] },
+        { "d": 3, "nom": 11, "tgt": 3, "v": [5, 11, 0, 1] },
+        { "d": 3, "nom": 3, "tgt": 2, "v": [0, 1] },
+        { "d": 4, "nom": 11, "tgt": 2, "v": [5, 11, 0, 1] },
+        { "d": 5, "nom": 1, "tgt": 5, "v": [7, 8, 9, 11, 3] }
+      ],
+      "bluffs": ["farmer", "barber", "savant"],
+      "startedAt": "2026-09-20T17:34:29.163399",
+      "bag": [
+        "snakecharmer",
+        "fisherman",
+        "huntsman",
+        "balloonist",
+        "poppygrower",
+        "noble",
+        "professor",
+        "damsel",
+        "cannibal",
+        "psychopath",
+        "pithag",
+        "vigormortis"
+      ],
+      "draw": [],
+      "seatmode": "random",
+      "snaps": {
+        "1": [
+          {
+            "name": "Puran",
+            "char": "psychopath",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Grayson",
+            "char": "professor",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "8", "s": "" }]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "1", "s": "" }]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "2": [
+          {
+            "name": "Puran",
+            "char": "psychopath",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Grayson",
+            "char": "professor",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "8", "s": "" }]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "1", "s": "" }]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "3": [
+          {
+            "name": "Puran",
+            "char": "psychopath",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "2 投毒", "s": "" }]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "9", "s": "" }]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "4": [
+          {
+            "name": "Puran",
+            "char": "psychopath",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "落难", "s": "" }]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "2 投毒", "s": "" }]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "9", "s": "" }]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "5": [
+          {
+            "name": "Puran",
+            "char": "golem",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": true,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "落难", "s": "" },
+              { "l": "舞蛇", "s": "" },
+              { "l": "4", "s": "" }
+            ]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "2 投毒", "s": "" },
+              { "l": "1 魔像", "s": "" }
+            ]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "9", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" },
+              { "l": "6", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "6": [
+          {
+            "name": "Puran",
+            "char": "golem",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "evil",
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": true,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "落难", "s": "" },
+              { "l": "舞蛇", "s": "" },
+              { "l": "4", "s": "" }
+            ]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "2 投毒", "s": "" },
+              { "l": "1 魔像", "s": "" }
+            ]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "9", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" },
+              { "l": "6", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "7": [
+          {
+            "name": "Puran",
+            "char": "golem",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "evil",
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": true,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "落难", "s": "" },
+              { "l": "舞蛇", "s": "" },
+              { "l": "4", "s": "" }
+            ]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "2 投毒", "s": "" },
+              { "l": "1 魔像", "s": "" }
+            ]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "9", "s": "" },
+              { "l": "11", "s": "" },
+              { "l": "5", "s": "" }
+            ]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" },
+              { "l": "6", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "8": [
+          {
+            "name": "Puran",
+            "char": "golem",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "evil",
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": true,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "落难", "s": "" },
+              { "l": "舞蛇", "s": "" },
+              { "l": "4", "s": "" }
+            ]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "2 投毒", "s": "" },
+              { "l": "1 魔像", "s": "" }
+            ]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "9", "s": "" },
+              { "l": "11", "s": "" },
+              { "l": "5", "s": "" }
+            ]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" },
+              { "l": "6", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "9": [
+          {
+            "name": "Puran",
+            "char": "golem",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "evil",
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "落难", "s": "" },
+              { "l": "舞蛇", "s": "" },
+              { "l": "4", "s": "" }
+            ]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "2 投毒", "s": "" },
+              { "l": "1 魔像", "s": "" }
+            ]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "9", "s": "" },
+              { "l": "11", "s": "" },
+              { "l": "5", "s": "" },
+              { "l": "12", "s": "" }
+            ]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" },
+              { "l": "6", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": true,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ],
+        "10": [
+          {
+            "name": "Puran",
+            "char": "golem",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "evil",
+            "pid": null,
+            "rem": [{ "l": "已被猜测", "s": "damsel" }]
+          },
+          {
+            "name": "Grayson",
+            "char": "poisoner",
+            "traveller": false,
+            "alive": true,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": "good",
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Xuan",
+            "char": "cannibal",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "落难", "s": "" },
+              { "l": "舞蛇", "s": "" },
+              { "l": "4", "s": "" }
+            ]
+          },
+          {
+            "name": "Chai",
+            "char": "pithag",
+            "traveller": false,
+            "alive": false,
+            "ghost": true,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "2 投毒", "s": "" },
+              { "l": "1 魔像", "s": "" }
+            ]
+          },
+          {
+            "name": "Jiarong",
+            "char": "huntsman",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Kenny",
+            "char": "vigormortis",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "9", "s": "" },
+              { "l": "11", "s": "" },
+              { "l": "5", "s": "" },
+              { "l": "12", "s": "" }
+            ]
+          },
+          {
+            "name": "MaxPng",
+            "char": "balloonist",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "8", "s": "" },
+              { "l": "2", "s": "" },
+              { "l": "6", "s": "" }
+            ]
+          },
+          {
+            "name": "Max",
+            "char": "snakecharmer",
+            "traveller": false,
+            "alive": false,
+            "ghost": true,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [
+              { "l": "1", "s": "" },
+              { "l": "11", "s": "" }
+            ]
+          },
+          {
+            "name": "Crystal(2)",
+            "char": "fisherman",
+            "traveller": false,
+            "alive": false,
+            "ghost": true,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "SB",
+            "char": "damsel",
+            "traveller": false,
+            "alive": false,
+            "ghost": true,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": []
+          },
+          {
+            "name": "Wardell",
+            "char": "poppygrower",
+            "traveller": false,
+            "alive": false,
+            "ghost": false,
+            "poison": false,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "是酒鬼", "s": "drunk" }]
+          },
+          {
+            "name": "Leon",
+            "char": "noble",
+            "traveller": false,
+            "alive": false,
+            "ghost": true,
+            "poison": true,
+            "drunk": false,
+            "align": null,
+            "pid": null,
+            "rem": [{ "l": "4 8 10", "s": "" }]
+          }
+        ]
+      }
+    }
+  }
