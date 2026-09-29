@@ -1,1 +1,1627 @@
-{"id":"1790502623374272","ended":"2026-09-27T17:50:23.374272","started":"2026-09-27T16:26:58.231626","edition":"outedevil","name":"横行霸道V5","nameEn":"Outed Evil","seats":16,"days":4,"winner":"good","title":"Terry哥布林，反转？！","league":"","mvpSeat":null,"mvpNote":"","state":{"edition":"outedevil","isNight":true,"dayCount":4,"lang":"zh","started":false,"players":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"失去能力","s":"huntsman"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"},{"l":"注意阵营变动","s":""}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":true,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"3 异端","s":""},{"l":"6 小恶魔","s":""},{"l":"7占卜","s":""},{"l":"8巡山","s":""},{"l":"4精神","s":""},{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 12","char":"savant","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""},{"l":"恶魔在奇数，恐惧目标在偶数","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"},{"l":"舞蛇3","s":""},{"l":"茶艺","s":""}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4","s":""},{"l":"14","s":""}]},{"name":"玩家 16","char":"deviant","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]}],"custom":["你选过谁？","选择1名玩家","选择2名玩家","pick your host"],"history":[{"d":4,"n":true,"t":"🏁 游戏结束 · 善良阵营胜利"},{"d":3,"n":false,"t":"⚖️ 玩家 5 · 哥布林 被处决"},{"d":3,"n":false,"t":"🗳️ 玩家8 提名 玩家6\n投票（3 票 / 需 5）：8、11、15\n→ 玩家6 不会被处决"},{"d":3,"n":false,"t":"🗳️ 玩家3 提名 玩家8\n投票（4 票 / 需 5）：1、2、3、13\n→ 玩家8 不会被处决"},{"d":3,"n":false,"t":"🗳️ 玩家11 提名 玩家5\n投票（10 票 / 需 5）：1、2、3、6、7、9、11、12、13、14\n→ 玩家5 即将被处决"},{"d":3,"n":false,"t":"💀 玩家 14 · 落难少女 死亡"},{"d":3,"n":false,"t":"💀 玩家 12 · 博学者 死亡"},{"d":3,"n":true,"t":"❤️ 玩家 12 · 博学者 复活了"},{"d":3,"n":true,"t":"💀 玩家 12 · 博学者 死亡"},{"d":3,"n":true,"t":"疯子 疯子 选择 12号玩家"},{"d":2,"n":false,"t":"⚖️ 玩家 9 · 茶艺师 被处决"},{"d":2,"n":false,"t":"🗳️ 玩家15 提名 玩家14\n投票（0 票 / 需 7）：无\n→ 玩家14 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家8 提名 玩家9\n投票（13 票 / 需 7）：1、3、5、6、8、9、10、11、12、13、14、15、16\n→ 玩家9 即将被处决"},{"d":2,"n":false,"t":"🗳️ 玩家3 提名 玩家8\n投票（9 票 / 需 7）：1、2、6、9、11、13、14、15、16\n→ 玩家8 即将被处决"},{"d":2,"n":false,"t":"💀 玩家 4 · 渔夫 死亡"},{"d":2,"n":true,"t":"❤️ 玩家 4 · 渔夫 复活了"},{"d":2,"n":true,"t":"💀 玩家 4 · 渔夫 死亡"},{"d":2,"n":true,"t":"💀 玩家 7 · 占卜师 死亡"},{"d":2,"n":true,"t":"疯子 疯子 选择 7号玩家"},{"d":1,"n":false,"t":"⚖️ 玩家 10 · 舞蛇人 被处决"},{"d":1,"n":false,"t":"🗳️ 玩家10 提名 玩家10\n投票（13 票 / 需 8）：1、2、3、5、6、8、9、10、12、13、14、15、16\n→ 玩家10 即将被处决"},{"d":1,"n":false,"t":"🗳️ 玩家1 提名 玩家15\n投票（5 票 / 需 8）：1、4、11、12、13\n→ 玩家15 不会被处决"},{"d":1,"n":false,"t":"🗳️ 玩家15 提名 玩家4\n投票（5 票 / 需 8）：1、5、13、14、15\n→ 玩家4 不会被处决"},{"d":1,"n":false,"t":"🗳️ 玩家11 提名 玩家9\n投票（8 票 / 需 8）：5、6、7、8、11、13、14、15\n→ 玩家9 即将被处决"},{"d":1,"n":false,"t":"🗳️ 玩家4 提名 玩家1\n投票（2 票 / 需 8）：4、11\n→ 玩家1 不会被处决"},{"d":1,"n":true,"t":"🧪 玩家 10 · 舞蛇人 中毒"},{"d":1,"n":true,"t":"🎭 玩家 10 现在是舞蛇人"},{"d":1,"n":true,"t":"🎭 玩家 6 现在是痢蛭"},{"d":1,"n":true,"t":"你是 善良的 舞蛇人 舞蛇人"},{"d":1,"n":true,"t":"你是 邪恶的 痢蛭 痢蛭"},{"d":1,"n":true,"t":"这些角色不在场, 理发师, 炼金术士, 水手."},{"d":1,"n":true,"t":"落难少女 落难少女 在场"},{"d":1,"n":true,"t":"落难少女"},{"d":1,"n":true,"t":"🎭 玩家 2 现在是疯子"},{"d":1,"n":true,"t":"🎭 玩家 2 现在是痢蛭"},{"d":1,"n":true,"t":"🎭 玩家 2 现在是疯子"},{"d":1,"n":true,"t":"🎭 玩家 2 现在是痢蛭"},{"d":1,"n":true,"t":"🎭 玩家 2 现在是疯子"}],"noms":[{"d":1,"nom":3,"tgt":0,"v":[3,10]},{"d":1,"nom":10,"tgt":8,"v":[10,12,13,14,4,5,6,7]},{"d":1,"nom":14,"tgt":3,"v":[4,12,14,13,0]},{"d":1,"nom":0,"tgt":14,"v":[0,3,10,11,12]},{"d":1,"nom":9,"tgt":9,"v":[11,12,13,14,15,0,1,2,4,5,7,8,9]},{"d":2,"nom":2,"tgt":7,"v":[8,10,12,13,14,15,0,1,5]},{"d":2,"nom":7,"tgt":8,"v":[9,10,11,12,13,14,15,0,2,4,5,7,8]},{"d":2,"nom":14,"tgt":13,"v":[]},{"d":3,"nom":10,"tgt":4,"v":[5,6,8,10,11,12,13,0,1,2]},{"d":3,"nom":2,"tgt":7,"v":[12,0,1,2]},{"d":3,"nom":7,"tgt":5,"v":[7,10,14]}],"bluffs":["barber","alchemist","sailor"],"startedAt":"2026-09-27T16:26:58.231626","bag":["damsel","savant","fortuneteller","snakecharmer","juggler","huntsman","tealady","cannibal","fisherman","heretic","lleech","psychopath","goblin","fearmonger","lleech"],"draw":[],"seatmode":"random","snaps":{"1":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"savant","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]}],"2":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"},{"l":"注意阵营变动","s":""}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"3 异端","s":""},{"l":"6 小恶魔","s":""},{"l":"7占卜","s":""},{"l":"8巡山","s":""},{"l":"4精神","s":""}]},{"name":"玩家 12","char":"savant","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 16","char":"deviant","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]}],"3":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"失去能力","s":"huntsman"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"},{"l":"注意阵营变动","s":""},{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"3 异端","s":""},{"l":"6 小恶魔","s":""},{"l":"7占卜","s":""},{"l":"8巡山","s":""},{"l":"4精神","s":""}]},{"name":"玩家 12","char":"savant","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"},{"l":"舞蛇3","s":""}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 16","char":"deviant","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]}],"4":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"失去能力","s":"huntsman"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"},{"l":"注意阵营变动","s":""},{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":true,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"3 异端","s":""},{"l":"6 小恶魔","s":""},{"l":"7占卜","s":""},{"l":"8巡山","s":""},{"l":"4精神","s":""}]},{"name":"玩家 12","char":"savant","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""},{"l":"恶魔在奇数，恐惧目标在偶数","s":""}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"},{"l":"舞蛇3","s":""}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4","s":""}]},{"name":"玩家 16","char":"deviant","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]}],"5":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"失去能力","s":"huntsman"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"},{"l":"注意阵营变动","s":""}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":true,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"3 异端","s":""},{"l":"6 小恶魔","s":""},{"l":"7占卜","s":""},{"l":"8巡山","s":""},{"l":"4精神","s":""},{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 12","char":"savant","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""},{"l":"恶魔在奇数，恐惧目标在偶数","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"},{"l":"舞蛇3","s":""},{"l":"茶艺","s":""}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4","s":""}]},{"name":"玩家 16","char":"deviant","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]}],"6":[{"name":"玩家 1","char":"huntsman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"9","s":""},{"l":"失去能力","s":"huntsman"}]},{"name":"玩家 2","char":"lunatic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"疯子","s":""}]},{"name":"玩家 3","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"},{"l":"注意阵营变动","s":""}]},{"name":"玩家 5","char":"goblin","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 6","char":"lleech","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 7","char":"fortuneteller","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"6 9 有","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 8","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 9","char":"tealady","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":true,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 11","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"3 异端","s":""},{"l":"6 小恶魔","s":""},{"l":"7占卜","s":""},{"l":"8巡山","s":""},{"l":"4精神","s":""},{"l":"恐惧蔓延","s":"fearmonger"}]},{"name":"玩家 12","char":"savant","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"外来邻座，邪恶不邻座","s":""},{"l":"恶魔在奇数，恐惧目标在偶数","s":""},{"l":"死亡","s":"lleech"}]},{"name":"玩家 13","char":"cannibal","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"中毒","s":"lleech"},{"l":"舞蛇3","s":""},{"l":"茶艺","s":""}]},{"name":"玩家 14","char":"damsel","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"4","s":""},{"l":"14","s":""}]},{"name":"玩家 16","char":"deviant","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"good","pid":null,"rem":[]}]}}}
+{
+  "id": "1790502623374272",
+  "ended": "2026-09-27T17:50:23.374272",
+  "started": "2026-09-27T16:26:58.231626",
+  "edition": "outedevil",
+  "name": "横行霸道V5",
+  "nameEn": "Outed Evil",
+  "seats": 16,
+  "days": 4,
+  "winner": "good",
+  "title": "Terry哥布林，反转？！",
+  "league": "",
+  "mvpSeat": null,
+  "mvpNote": "",
+  "state": {
+    "edition": "outedevil",
+    "isNight": true,
+    "dayCount": 4,
+    "lang": "zh",
+    "started": false,
+    "players": [
+      {
+        "name": "Kenny",
+        "char": "huntsman",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "9", "s": "" },
+          { "l": "失去能力", "s": "huntsman" }
+        ]
+      },
+      {
+        "name": "Zhi Xuan",
+        "char": "lunatic",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "疯子", "s": "" }]
+      },
+      {
+        "name": "Shawn",
+        "char": "heretic",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "Puran",
+        "char": "fisherman",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "干扰项", "s": "fortuneteller" },
+          { "l": "注意阵营变动", "s": "" }
+        ]
+      },
+      {
+        "name": "Terry",
+        "char": "goblin",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "Lee",
+        "char": "lleech",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "RH",
+        "char": "fortuneteller",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "6 9 有", "s": "" },
+          { "l": "死亡", "s": "lleech" }
+        ]
+      },
+      {
+        "name": "Max",
+        "char": "fearmonger",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "1", "s": "" }]
+      },
+      {
+        "name": "MaxPng",
+        "char": "tealady",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "Wardell",
+        "char": "snakecharmer",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": true,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "Leon",
+        "char": "juggler",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "3 异端", "s": "" },
+          { "l": "6 小恶魔", "s": "" },
+          { "l": "7占卜", "s": "" },
+          { "l": "8巡山", "s": "" },
+          { "l": "4精神", "s": "" },
+          { "l": "恐惧蔓延", "s": "fearmonger" }
+        ]
+      },
+      {
+        "name": "Loon",
+        "char": "savant",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "外来邻座，邪恶不邻座", "s": "" },
+          { "l": "恶魔在奇数，恐惧目标在偶数", "s": "" },
+          { "l": "死亡", "s": "lleech" }
+        ]
+      },
+      {
+        "name": "Jiayi",
+        "char": "cannibal",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "中毒", "s": "lleech" },
+          { "l": "舞蛇3", "s": "" },
+          { "l": "茶艺", "s": "" }
+        ]
+      },
+      {
+        "name": "Hui Yin",
+        "char": "damsel",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "Wei Kit",
+        "char": "psychopath",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "4", "s": "" },
+          { "l": "14", "s": "" }
+        ]
+      },
+      {
+        "name": "Grayson",
+        "char": "deviant",
+        "traveller": true,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": "good",
+        "pid": null,
+        "rem": []
+      }
+    ],
+    "custom": ["你选过谁？", "选择1名玩家", "选择2名玩家", "pick your host"],
+    "history": [
+      { "d": 4, "n": true, "t": "🏁 游戏结束 · 善良阵营胜利" },
+      { "d": 3, "n": false, "t": "⚖️ 玩家 5 · 哥布林 被处决" },
+      {
+        "d": 3,
+        "n": false,
+        "t": "🗳️ 玩家8 提名 玩家6\n投票（3 票 / 需 5）：8、11、15\n→ 玩家6 不会被处决"
+      },
+      {
+        "d": 3,
+        "n": false,
+        "t": "🗳️ 玩家3 提名 玩家8\n投票（4 票 / 需 5）：1、2、3、13\n→ 玩家8 不会被处决"
+      },
+      {
+        "d": 3,
+        "n": false,
+        "t": "🗳️ 玩家11 提名 玩家5\n投票（10 票 / 需 5）：1、2、3、6、7、9、11、12、13、14\n→ 玩家5 即将被处决"
+      },
+      { "d": 3, "n": false, "t": "💀 玩家 14 · 落难少女 死亡" },
+      { "d": 3, "n": false, "t": "💀 玩家 12 · 博学者 死亡" },
+      { "d": 3, "n": true, "t": "❤️ 玩家 12 · 博学者 复活了" },
+      { "d": 3, "n": true, "t": "💀 玩家 12 · 博学者 死亡" },
+      { "d": 3, "n": true, "t": "疯子 疯子 选择 12号玩家" },
+      { "d": 2, "n": false, "t": "⚖️ 玩家 9 · 茶艺师 被处决" },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家15 提名 玩家14\n投票（0 票 / 需 7）：无\n→ 玩家14 不会被处决"
+      },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家8 提名 玩家9\n投票（13 票 / 需 7）：1、3、5、6、8、9、10、11、12、13、14、15、16\n→ 玩家9 即将被处决"
+      },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家3 提名 玩家8\n投票（9 票 / 需 7）：1、2、6、9、11、13、14、15、16\n→ 玩家8 即将被处决"
+      },
+      { "d": 2, "n": false, "t": "💀 玩家 4 · 渔夫 死亡" },
+      { "d": 2, "n": true, "t": "❤️ 玩家 4 · 渔夫 复活了" },
+      { "d": 2, "n": true, "t": "💀 玩家 4 · 渔夫 死亡" },
+      { "d": 2, "n": true, "t": "💀 玩家 7 · 占卜师 死亡" },
+      { "d": 2, "n": true, "t": "疯子 疯子 选择 7号玩家" },
+      { "d": 1, "n": false, "t": "⚖️ 玩家 10 · 舞蛇人 被处决" },
+      {
+        "d": 1,
+        "n": false,
+        "t": "🗳️ 玩家10 提名 玩家10\n投票（13 票 / 需 8）：1、2、3、5、6、8、9、10、12、13、14、15、16\n→ 玩家10 即将被处决"
+      },
+      {
+        "d": 1,
+        "n": false,
+        "t": "🗳️ 玩家1 提名 玩家15\n投票（5 票 / 需 8）：1、4、11、12、13\n→ 玩家15 不会被处决"
+      },
+      {
+        "d": 1,
+        "n": false,
+        "t": "🗳️ 玩家15 提名 玩家4\n投票（5 票 / 需 8）：1、5、13、14、15\n→ 玩家4 不会被处决"
+      },
+      {
+        "d": 1,
+        "n": false,
+        "t": "🗳️ 玩家11 提名 玩家9\n投票（8 票 / 需 8）：5、6、7、8、11、13、14、15\n→ 玩家9 即将被处决"
+      },
+      {
+        "d": 1,
+        "n": false,
+        "t": "🗳️ 玩家4 提名 玩家1\n投票（2 票 / 需 8）：4、11\n→ 玩家1 不会被处决"
+      },
+      { "d": 1, "n": true, "t": "🧪 玩家 10 · 舞蛇人 中毒" },
+      { "d": 1, "n": true, "t": "🎭 玩家 10 现在是舞蛇人" },
+      { "d": 1, "n": true, "t": "🎭 玩家 6 现在是痢蛭" },
+      { "d": 1, "n": true, "t": "你是 善良的 舞蛇人 舞蛇人" },
+      { "d": 1, "n": true, "t": "你是 邪恶的 痢蛭 痢蛭" },
+      { "d": 1, "n": true, "t": "这些角色不在场, 理发师, 炼金术士, 水手." },
+      { "d": 1, "n": true, "t": "落难少女 落难少女 在场" },
+      { "d": 1, "n": true, "t": "落难少女" },
+      { "d": 1, "n": true, "t": "🎭 玩家 2 现在是疯子" },
+      { "d": 1, "n": true, "t": "🎭 玩家 2 现在是痢蛭" },
+      { "d": 1, "n": true, "t": "🎭 玩家 2 现在是疯子" },
+      { "d": 1, "n": true, "t": "🎭 玩家 2 现在是痢蛭" },
+      { "d": 1, "n": true, "t": "🎭 玩家 2 现在是疯子" }
+    ],
+    "noms": [
+      { "d": 1, "nom": 3, "tgt": 0, "v": [3, 10] },
+      { "d": 1, "nom": 10, "tgt": 8, "v": [10, 12, 13, 14, 4, 5, 6, 7] },
+      { "d": 1, "nom": 14, "tgt": 3, "v": [4, 12, 14, 13, 0] },
+      { "d": 1, "nom": 0, "tgt": 14, "v": [0, 3, 10, 11, 12] },
+      {
+        "d": 1,
+        "nom": 9,
+        "tgt": 9,
+        "v": [11, 12, 13, 14, 15, 0, 1, 2, 4, 5, 7, 8, 9]
+      },
+      { "d": 2, "nom": 2, "tgt": 7, "v": [8, 10, 12, 13, 14, 15, 0, 1, 5] },
+      {
+        "d": 2,
+        "nom": 7,
+        "tgt": 8,
+        "v": [9, 10, 11, 12, 13, 14, 15, 0, 2, 4, 5, 7, 8]
+      },
+      { "d": 2, "nom": 14, "tgt": 13, "v": [] },
+      { "d": 3, "nom": 10, "tgt": 4, "v": [5, 6, 8, 10, 11, 12, 13, 0, 1, 2] },
+      { "d": 3, "nom": 2, "tgt": 7, "v": [12, 0, 1, 2] },
+      { "d": 3, "nom": 7, "tgt": 5, "v": [7, 10, 14] }
+    ],
+    "bluffs": ["barber", "alchemist", "sailor"],
+    "startedAt": "2026-09-27T16:26:58.231626",
+    "bag": [
+      "damsel",
+      "savant",
+      "fortuneteller",
+      "snakecharmer",
+      "juggler",
+      "huntsman",
+      "tealady",
+      "cannibal",
+      "fisherman",
+      "heretic",
+      "lleech",
+      "psychopath",
+      "goblin",
+      "fearmonger",
+      "lleech"
+    ],
+    "draw": [],
+    "seatmode": "random",
+    "snaps": {
+      "1": [
+        {
+          "name": "Kenny",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "恐惧蔓延", "s": "fearmonger" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "lunatic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "疯子", "s": "" }]
+        },
+        {
+          "name": "Shawn",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Terry",
+          "char": "goblin",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Lee",
+          "char": "lleech",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "6 9 有", "s": "" }]
+        },
+        {
+          "name": "Max",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "MaxPng",
+          "char": "tealady",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Leon",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Loon",
+          "char": "savant",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "外来邻座，邪恶不邻座", "s": "" }]
+        },
+        {
+          "name": "Jiayi",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "中毒", "s": "lleech" }]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "damsel",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "2": [
+        {
+          "name": "Kenny",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "恐惧蔓延", "s": "fearmonger" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "lunatic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "疯子", "s": "" }]
+        },
+        {
+          "name": "Shawn",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "干扰项", "s": "fortuneteller" },
+            { "l": "注意阵营变动", "s": "" }
+          ]
+        },
+        {
+          "name": "Terry",
+          "char": "goblin",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Lee",
+          "char": "lleech",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "6 9 有", "s": "" }]
+        },
+        {
+          "name": "Max",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "MaxPng",
+          "char": "tealady",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Leon",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "3 异端", "s": "" },
+            { "l": "6 小恶魔", "s": "" },
+            { "l": "7占卜", "s": "" },
+            { "l": "8巡山", "s": "" },
+            { "l": "4精神", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "savant",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "外来邻座，邪恶不邻座", "s": "" }]
+        },
+        {
+          "name": "Jiayi",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "中毒", "s": "lleech" }]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "damsel",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Grayson",
+          "char": "deviant",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "good",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "3": [
+        {
+          "name": "Kenny",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "9", "s": "" },
+            { "l": "失去能力", "s": "huntsman" }
+          ]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "lunatic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "疯子", "s": "" }]
+        },
+        {
+          "name": "Shawn",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "干扰项", "s": "fortuneteller" },
+            { "l": "注意阵营变动", "s": "" },
+            { "l": "恐惧蔓延", "s": "fearmonger" }
+          ]
+        },
+        {
+          "name": "Terry",
+          "char": "goblin",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Lee",
+          "char": "lleech",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "6 9 有", "s": "" },
+            { "l": "死亡", "s": "lleech" }
+          ]
+        },
+        {
+          "name": "Max",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "MaxPng",
+          "char": "tealady",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Leon",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "3 异端", "s": "" },
+            { "l": "6 小恶魔", "s": "" },
+            { "l": "7占卜", "s": "" },
+            { "l": "8巡山", "s": "" },
+            { "l": "4精神", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "savant",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "外来邻座，邪恶不邻座", "s": "" }]
+        },
+        {
+          "name": "Jiayi",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "中毒", "s": "lleech" },
+            { "l": "舞蛇3", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "damsel",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Grayson",
+          "char": "deviant",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "good",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "4": [
+        {
+          "name": "Kenny",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "9", "s": "" },
+            { "l": "失去能力", "s": "huntsman" }
+          ]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "lunatic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "疯子", "s": "" }]
+        },
+        {
+          "name": "Shawn",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "干扰项", "s": "fortuneteller" },
+            { "l": "注意阵营变动", "s": "" },
+            { "l": "恐惧蔓延", "s": "fearmonger" }
+          ]
+        },
+        {
+          "name": "Terry",
+          "char": "goblin",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Lee",
+          "char": "lleech",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "6 9 有", "s": "" },
+            { "l": "死亡", "s": "lleech" }
+          ]
+        },
+        {
+          "name": "Max",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "MaxPng",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Leon",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "3 异端", "s": "" },
+            { "l": "6 小恶魔", "s": "" },
+            { "l": "7占卜", "s": "" },
+            { "l": "8巡山", "s": "" },
+            { "l": "4精神", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "savant",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "外来邻座，邪恶不邻座", "s": "" },
+            { "l": "恶魔在奇数，恐惧目标在偶数", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "中毒", "s": "lleech" },
+            { "l": "舞蛇3", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "damsel",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "4", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "deviant",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "good",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "5": [
+        {
+          "name": "Kenny",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "9", "s": "" },
+            { "l": "失去能力", "s": "huntsman" }
+          ]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "lunatic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "疯子", "s": "" }]
+        },
+        {
+          "name": "Shawn",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "干扰项", "s": "fortuneteller" },
+            { "l": "注意阵营变动", "s": "" }
+          ]
+        },
+        {
+          "name": "Terry",
+          "char": "goblin",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Lee",
+          "char": "lleech",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "6 9 有", "s": "" },
+            { "l": "死亡", "s": "lleech" }
+          ]
+        },
+        {
+          "name": "Max",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "MaxPng",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Leon",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "3 异端", "s": "" },
+            { "l": "6 小恶魔", "s": "" },
+            { "l": "7占卜", "s": "" },
+            { "l": "8巡山", "s": "" },
+            { "l": "4精神", "s": "" },
+            { "l": "恐惧蔓延", "s": "fearmonger" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "savant",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "外来邻座，邪恶不邻座", "s": "" },
+            { "l": "恶魔在奇数，恐惧目标在偶数", "s": "" },
+            { "l": "死亡", "s": "lleech" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "中毒", "s": "lleech" },
+            { "l": "舞蛇3", "s": "" },
+            { "l": "茶艺", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "damsel",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "4", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "deviant",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "good",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "6": [
+        {
+          "name": "Kenny",
+          "char": "huntsman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "9", "s": "" },
+            { "l": "失去能力", "s": "huntsman" }
+          ]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "lunatic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "疯子", "s": "" }]
+        },
+        {
+          "name": "Shawn",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "干扰项", "s": "fortuneteller" },
+            { "l": "注意阵营变动", "s": "" }
+          ]
+        },
+        {
+          "name": "Terry",
+          "char": "goblin",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Lee",
+          "char": "lleech",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "6 9 有", "s": "" },
+            { "l": "死亡", "s": "lleech" }
+          ]
+        },
+        {
+          "name": "Max",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "MaxPng",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wardell",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Leon",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "3 异端", "s": "" },
+            { "l": "6 小恶魔", "s": "" },
+            { "l": "7占卜", "s": "" },
+            { "l": "8巡山", "s": "" },
+            { "l": "4精神", "s": "" },
+            { "l": "恐惧蔓延", "s": "fearmonger" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "savant",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "外来邻座，邪恶不邻座", "s": "" },
+            { "l": "恶魔在奇数，恐惧目标在偶数", "s": "" },
+            { "l": "死亡", "s": "lleech" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "cannibal",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "中毒", "s": "lleech" },
+            { "l": "舞蛇3", "s": "" },
+            { "l": "茶艺", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "damsel",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "4", "s": "" },
+            { "l": "14", "s": "" }
+          ]
+        },
+        {
+          "name": "Grayson",
+          "char": "deviant",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "good",
+          "pid": null,
+          "rem": []
+        }
+      ]
+    }
+  }
+}

@@ -1,1 +1,2064 @@
-{"id":"1790507570540916","ended":"2026-09-27T19:12:50.540916","started":"2026-09-27T18:01:37.202033","edition":"outedevil","name":"横行霸道V5","nameEn":"Outed Evil","seats":16,"days":5,"winner":"evil","title":"相信Terry，又反转？！","league":"","mvpSeat":null,"mvpNote":"","state":{"edition":"outedevil","isNight":true,"dayCount":5,"lang":"zh","started":false,"players":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":true,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2","s":""},{"l":"8","s":""},{"l":"8","s":""}]},{"name":"玩家 4","char":"imp","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""},{"l":"7","s":""},{"l":"8","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""},{"l":"邪","s":""},{"l":"善","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"死亡","s":"imp"}]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""},{"l":"8 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""},{"l":"14","s":""},{"l":"13","s":""},{"l":"12","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""},{"l":"3","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"custom":["你选过谁？","选择1名玩家","选择2名玩家","pick your host"],"history":[{"d":5,"n":true,"t":"🏁 游戏结束 · 邪恶阵营胜利"},{"d":4,"n":false,"t":"⚖️ 玩家 4 · 小恶魔 被处决"},{"d":4,"n":false,"t":"🗳️ 玩家9 提名 玩家4\n投票（6 票 / 需 3）：1、3、8、9、10、12\n→ 玩家4 即将被处决"},{"d":4,"n":false,"t":"🗳️ 玩家1 提名 玩家3\n投票（3 票 / 需 3）：2、3、4\n→ 玩家3 即将被处决"},{"d":4,"n":false,"t":"💀 玩家 12 · 罂粟种植者 死亡"},{"d":4,"n":true,"t":"💀 玩家 8 · 占卜师 死亡"},{"d":4,"n":true,"t":"🧪 玩家 5 · 将军 中毒"},{"d":4,"n":true,"t":"🧪 玩家 8 · 占卜师 解除中毒"},{"d":3,"n":false,"t":"⚖️ 玩家 10 · 舞蛇人 被处决"},{"d":3,"n":false,"t":"🗳️ 玩家8 提名 玩家10\n投票（8 票 / 需 5）：1、2、3、4、5、8、9、12\n→ 玩家10 即将被处决"},{"d":3,"n":false,"t":"🗳️ 玩家1 提名 玩家3\n投票（5 票 / 需 5）：1、2、4、9、10\n→ 玩家3 即将被处决"},{"d":3,"n":false,"t":"💀 玩家 13 · 恐惧之灵 死亡"},{"d":3,"n":false,"t":"🍺 玩家 2 · 罂粟种植者 醉酒"},{"d":3,"n":true,"t":"💀 玩家 7 · 异端分子 死亡"},{"d":2,"n":false,"t":"💀 玩家 16 · 替罪羊 死亡"},{"d":2,"n":false,"t":"🗳️ 玩家5 提名 玩家6\n投票（3 票 / 需 6）：7、8、12\n→ 玩家6 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家12 提名 玩家11\n投票（2 票 / 需 6）：5、12\n→ 玩家11 不会被处决"},{"d":2,"n":false,"t":"🗳️ 玩家10 提名 玩家4\n投票（8 票 / 需 6）：1、4、5、8、9、10、13、16\n→ 玩家4 即将被处决"},{"d":2,"n":false,"t":"🗳️ 玩家4 提名 玩家12\n投票（3 票 / 需 6）：1、4、9\n→ 玩家12 不会被处决"},{"d":2,"n":false,"t":"💀 玩家 14 · 杂耍艺人 死亡"},{"d":2,"n":true,"t":"💀 玩家 15 · 精神病患者 死亡"},{"d":2,"n":true,"t":"🧪 玩家 2 · 罂粟种植者 解除中毒"},{"d":2,"n":true,"t":"🧪 玩家 8 · 占卜师 中毒"},{"d":1,"n":false,"t":"⚖️ 玩家 6 · 渔夫 被处决"},{"d":1,"n":false,"t":"🗳️ 玩家6 提名 玩家6\n投票（11 票 / 需 8）：1、2、3、4、6、7、8、9、12、13、16\n→ 玩家6 即将被处决"},{"d":1,"n":false,"t":"💀 玩家 11 · 茶艺师 死亡"},{"d":1,"n":true,"t":"🧪 玩家 2 · 罂粟种植者 中毒"},{"d":1,"n":true,"t":"这些角色不在场, 博学者, 食人族, 水手."},{"d":1,"n":true,"t":"🎭 玩家 12 现在是罂粟种植者"}],"noms":[{"d":1,"nom":5,"tgt":5,"v":[6,7,8,11,12,15,0,1,2,3,5]},{"d":2,"nom":3,"tgt":11,"v":[0,3,8]},{"d":2,"nom":9,"tgt":3,"v":[4,7,8,9,12,15,0,3]},{"d":2,"nom":11,"tgt":10,"v":[11,4]},{"d":2,"nom":4,"tgt":5,"v":[6,7,11]},{"d":3,"nom":0,"tgt":2,"v":[3,8,9,0,1]},{"d":3,"nom":7,"tgt":9,"v":[11,0,1,2,3,4,7,8]},{"d":4,"nom":0,"tgt":2,"v":[3,1,2]},{"d":4,"nom":8,"tgt":3,"v":[8,7,9,11,0,2]}],"bluffs":["savant","cannibal","sailor"],"startedAt":"2026-09-27T18:01:37.202033","bag":["fortuneteller","fisherman","philosopher","alchemist","juggler","snakecharmer","poppygrower","tealady","general","politician","heretic","poisoner","psychopath","fearmonger","imp"],"draw":[],"seatmode":"random","snaps":{"1":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"2":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"3":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"4":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""},{"l":"14","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"5":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"死亡","s":"imp"}]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""},{"l":"8 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""},{"l":"14","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""},{"l":"3","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"6":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":true,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2","s":""},{"l":"8","s":""},{"l":"8","s":""}]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""},{"l":"7","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"死亡","s":"imp"}]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""},{"l":"8 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""},{"l":"14","s":""},{"l":"3","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""},{"l":"3","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"7":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":true,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2","s":""},{"l":"8","s":""},{"l":"8","s":""}]},{"name":"玩家 4","char":"imp","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""},{"l":"7","s":""},{"l":"8","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""},{"l":"邪","s":""},{"l":"善","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"死亡","s":"imp"}]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""},{"l":"8 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""},{"l":"14","s":""},{"l":"3","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""},{"l":"3","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}],"8":[{"name":"玩家 1","char":"politician","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 2","char":"poppygrower","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":true,"align":null,"pid":null,"rem":[{"l":"干扰项","s":"fortuneteller"}]},{"name":"玩家 3","char":"poisoner","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"2","s":""},{"l":"8","s":""},{"l":"8","s":""}]},{"name":"玩家 4","char":"imp","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"15","s":""},{"l":"7","s":""},{"l":"8","s":""}]},{"name":"玩家 5","char":"general","traveller":false,"alive":true,"ghost":false,"poison":true,"drunk":false,"align":null,"pid":null,"rem":[{"l":"均","s":""},{"l":"均","s":""},{"l":"邪","s":""},{"l":"善","s":""}]},{"name":"玩家 6","char":"fisherman","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"相信7号","s":""}]},{"name":"玩家 7","char":"heretic","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"死亡","s":"imp"}]},{"name":"玩家 8","char":"fortuneteller","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"7 9 否","s":""},{"l":"5 10 有","s":""},{"l":"8 10 有","s":""}]},{"name":"玩家 9","char":"alchemist","traveller":false,"alive":true,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"精神病","s":""},{"l":"15","s":""},{"l":"14","s":""},{"l":"13","s":""},{"l":"12","s":""}]},{"name":"玩家 10","char":"snakecharmer","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"1","s":""},{"l":"2","s":""},{"l":"3","s":""}]},{"name":"玩家 11","char":"tealady","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[]},{"name":"玩家 12","char":"poppygrower","traveller":false,"alive":false,"ghost":true,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"哲学家","s":""}]},{"name":"玩家 13","char":"fearmonger","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13","s":""}]},{"name":"玩家 14","char":"juggler","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"13 恶魔","s":""},{"l":"13 lizi","s":""},{"l":"9炼金","s":""},{"l":"13 恐惧","s":""},{"l":"13 哥布林","s":""}]},{"name":"玩家 15","char":"psychopath","traveller":false,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":null,"pid":null,"rem":[{"l":"11","s":""}]},{"name":"玩家 16","char":"scapegoat","traveller":true,"alive":false,"ghost":false,"poison":false,"drunk":false,"align":"evil","pid":null,"rem":[]}]}}}
+{
+  "id": "1790507570540916",
+  "ended": "2026-09-27T19:12:50.540916",
+  "started": "2026-09-27T18:01:37.202033",
+  "edition": "outedevil",
+  "name": "横行霸道V5",
+  "nameEn": "Outed Evil",
+  "seats": 16,
+  "days": 5,
+  "winner": "evil",
+  "title": "相信Terry，又反转？！",
+  "league": "",
+  "mvpSeat": null,
+  "mvpNote": "",
+  "state": {
+    "edition": "outedevil",
+    "isNight": true,
+    "dayCount": 5,
+    "lang": "zh",
+    "started": false,
+    "players": [
+      {
+        "name": "Leon",
+        "char": "politician",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "Shawn",
+        "char": "poppygrower",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": true,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+      },
+      {
+        "name": "Zhi Xuan",
+        "char": "poisoner",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "2", "s": "" },
+          { "l": "8", "s": "" },
+          { "l": "8", "s": "" }
+        ]
+      },
+      {
+        "name": "RH",
+        "char": "imp",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "15", "s": "" },
+          { "l": "7", "s": "" },
+          { "l": "8", "s": "" }
+        ]
+      },
+      {
+        "name": "玩家 5",
+        "char": "general",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": true,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "均", "s": "" },
+          { "l": "均", "s": "" },
+          { "l": "邪", "s": "" },
+          { "l": "善", "s": "" }
+        ]
+      },
+      {
+        "name": "玩家 6",
+        "char": "fisherman",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "相信7号", "s": "" }]
+      },
+      {
+        "name": "玩家 7",
+        "char": "heretic",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "死亡", "s": "imp" }]
+      },
+      {
+        "name": "玩家 8",
+        "char": "fortuneteller",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "7 9 否", "s": "" },
+          { "l": "5 10 有", "s": "" },
+          { "l": "8 10 有", "s": "" }
+        ]
+      },
+      {
+        "name": "Jiayi",
+        "char": "alchemist",
+        "traveller": false,
+        "alive": true,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "精神病", "s": "" },
+          { "l": "15", "s": "" },
+          { "l": "14", "s": "" },
+          { "l": "13", "s": "" },
+          { "l": "12", "s": "" }
+        ]
+      },
+      {
+        "name": "Kenny",
+        "char": "snakecharmer",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "1", "s": "" },
+          { "l": "2", "s": "" },
+          { "l": "3", "s": "" }
+        ]
+      },
+      {
+        "name": "Hui Yin",
+        "char": "tealady",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": []
+      },
+      {
+        "name": "MaxPng",
+        "char": "poppygrower",
+        "traveller": false,
+        "alive": false,
+        "ghost": true,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "哲学家", "s": "" }]
+      },
+      {
+        "name": "Lee",
+        "char": "fearmonger",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "13", "s": "" }]
+      },
+      {
+        "name": "Wardell",
+        "char": "juggler",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [
+          { "l": "13 恶魔", "s": "" },
+          { "l": "13 lizi", "s": "" },
+          { "l": "9炼金", "s": "" },
+          { "l": "13 恐惧", "s": "" },
+          { "l": "13 哥布林", "s": "" }
+        ]
+      },
+      {
+        "name": "Puran",
+        "char": "psychopath",
+        "traveller": false,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": null,
+        "pid": null,
+        "rem": [{ "l": "11", "s": "" }]
+      },
+      {
+        "name": "Grayson",
+        "char": "scapegoat",
+        "traveller": true,
+        "alive": false,
+        "ghost": false,
+        "poison": false,
+        "drunk": false,
+        "align": "evil",
+        "pid": null,
+        "rem": []
+      }
+    ],
+    "custom": ["你选过谁？", "选择1名玩家", "选择2名玩家", "pick your host"],
+    "history": [
+      { "d": 5, "n": true, "t": "🏁 游戏结束 · 邪恶阵营胜利" },
+      { "d": 4, "n": false, "t": "⚖️ 玩家 4 · 小恶魔 被处决" },
+      {
+        "d": 4,
+        "n": false,
+        "t": "🗳️ 玩家9 提名 玩家4\n投票（6 票 / 需 3）：1、3、8、9、10、12\n→ 玩家4 即将被处决"
+      },
+      {
+        "d": 4,
+        "n": false,
+        "t": "🗳️ 玩家1 提名 玩家3\n投票（3 票 / 需 3）：2、3、4\n→ 玩家3 即将被处决"
+      },
+      { "d": 4, "n": false, "t": "💀 玩家 12 · 罂粟种植者 死亡" },
+      { "d": 4, "n": true, "t": "💀 玩家 8 · 占卜师 死亡" },
+      { "d": 4, "n": true, "t": "🧪 玩家 5 · 将军 中毒" },
+      { "d": 4, "n": true, "t": "🧪 玩家 8 · 占卜师 解除中毒" },
+      { "d": 3, "n": false, "t": "⚖️ 玩家 10 · 舞蛇人 被处决" },
+      {
+        "d": 3,
+        "n": false,
+        "t": "🗳️ 玩家8 提名 玩家10\n投票（8 票 / 需 5）：1、2、3、4、5、8、9、12\n→ 玩家10 即将被处决"
+      },
+      {
+        "d": 3,
+        "n": false,
+        "t": "🗳️ 玩家1 提名 玩家3\n投票（5 票 / 需 5）：1、2、4、9、10\n→ 玩家3 即将被处决"
+      },
+      { "d": 3, "n": false, "t": "💀 玩家 13 · 恐惧之灵 死亡" },
+      { "d": 3, "n": false, "t": "🍺 玩家 2 · 罂粟种植者 醉酒" },
+      { "d": 3, "n": true, "t": "💀 玩家 7 · 异端分子 死亡" },
+      { "d": 2, "n": false, "t": "💀 玩家 16 · 替罪羊 死亡" },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家5 提名 玩家6\n投票（3 票 / 需 6）：7、8、12\n→ 玩家6 不会被处决"
+      },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家12 提名 玩家11\n投票（2 票 / 需 6）：5、12\n→ 玩家11 不会被处决"
+      },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家10 提名 玩家4\n投票（8 票 / 需 6）：1、4、5、8、9、10、13、16\n→ 玩家4 即将被处决"
+      },
+      {
+        "d": 2,
+        "n": false,
+        "t": "🗳️ 玩家4 提名 玩家12\n投票（3 票 / 需 6）：1、4、9\n→ 玩家12 不会被处决"
+      },
+      { "d": 2, "n": false, "t": "💀 玩家 14 · 杂耍艺人 死亡" },
+      { "d": 2, "n": true, "t": "💀 玩家 15 · 精神病患者 死亡" },
+      { "d": 2, "n": true, "t": "🧪 玩家 2 · 罂粟种植者 解除中毒" },
+      { "d": 2, "n": true, "t": "🧪 玩家 8 · 占卜师 中毒" },
+      { "d": 1, "n": false, "t": "⚖️ 玩家 6 · 渔夫 被处决" },
+      {
+        "d": 1,
+        "n": false,
+        "t": "🗳️ 玩家6 提名 玩家6\n投票（11 票 / 需 8）：1、2、3、4、6、7、8、9、12、13、16\n→ 玩家6 即将被处决"
+      },
+      { "d": 1, "n": false, "t": "💀 玩家 11 · 茶艺师 死亡" },
+      { "d": 1, "n": true, "t": "🧪 玩家 2 · 罂粟种植者 中毒" },
+      { "d": 1, "n": true, "t": "这些角色不在场, 博学者, 食人族, 水手." },
+      { "d": 1, "n": true, "t": "🎭 玩家 12 现在是罂粟种植者" }
+    ],
+    "noms": [
+      { "d": 1, "nom": 5, "tgt": 5, "v": [6, 7, 8, 11, 12, 15, 0, 1, 2, 3, 5] },
+      { "d": 2, "nom": 3, "tgt": 11, "v": [0, 3, 8] },
+      { "d": 2, "nom": 9, "tgt": 3, "v": [4, 7, 8, 9, 12, 15, 0, 3] },
+      { "d": 2, "nom": 11, "tgt": 10, "v": [11, 4] },
+      { "d": 2, "nom": 4, "tgt": 5, "v": [6, 7, 11] },
+      { "d": 3, "nom": 0, "tgt": 2, "v": [3, 8, 9, 0, 1] },
+      { "d": 3, "nom": 7, "tgt": 9, "v": [11, 0, 1, 2, 3, 4, 7, 8] },
+      { "d": 4, "nom": 0, "tgt": 2, "v": [3, 1, 2] },
+      { "d": 4, "nom": 8, "tgt": 3, "v": [8, 7, 9, 11, 0, 2] }
+    ],
+    "bluffs": ["savant", "cannibal", "sailor"],
+    "startedAt": "2026-09-27T18:01:37.202033",
+    "bag": [
+      "fortuneteller",
+      "fisherman",
+      "philosopher",
+      "alchemist",
+      "juggler",
+      "snakecharmer",
+      "poppygrower",
+      "tealady",
+      "general",
+      "politician",
+      "heretic",
+      "poisoner",
+      "psychopath",
+      "fearmonger",
+      "imp"
+    ],
+    "draw": [],
+    "seatmode": "random",
+    "snaps": {
+      "1": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "均", "s": "" }]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "7 9 否", "s": "" }]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "精神病", "s": "" }]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "2": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "均", "s": "" }]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "7 9 否", "s": "" }]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "1", "s": "" }]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "3": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "15", "s": "" }]
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "均", "s": "" },
+            { "l": "均", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "7 9 否", "s": "" },
+            { "l": "5 10 有", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "2", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "4": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "15", "s": "" }]
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "均", "s": "" },
+            { "l": "均", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "7 9 否", "s": "" },
+            { "l": "5 10 有", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" },
+            { "l": "14", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "2", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "5": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "15", "s": "" }]
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "均", "s": "" },
+            { "l": "均", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "死亡", "s": "imp" }]
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "7 9 否", "s": "" },
+            { "l": "5 10 有", "s": "" },
+            { "l": "8 10 有", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" },
+            { "l": "14", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "2", "s": "" },
+            { "l": "3", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "6": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": true,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "2", "s": "" },
+            { "l": "8", "s": "" },
+            { "l": "8", "s": "" }
+          ]
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "15", "s": "" },
+            { "l": "7", "s": "" }
+          ]
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "均", "s": "" },
+            { "l": "均", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "死亡", "s": "imp" }]
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "7 9 否", "s": "" },
+            { "l": "5 10 有", "s": "" },
+            { "l": "8 10 有", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" },
+            { "l": "14", "s": "" },
+            { "l": "3", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "2", "s": "" },
+            { "l": "3", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "7": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": true,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "2", "s": "" },
+            { "l": "8", "s": "" },
+            { "l": "8", "s": "" }
+          ]
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "15", "s": "" },
+            { "l": "7", "s": "" },
+            { "l": "8", "s": "" }
+          ]
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "均", "s": "" },
+            { "l": "均", "s": "" },
+            { "l": "邪", "s": "" },
+            { "l": "善", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "死亡", "s": "imp" }]
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "7 9 否", "s": "" },
+            { "l": "5 10 有", "s": "" },
+            { "l": "8 10 有", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" },
+            { "l": "14", "s": "" },
+            { "l": "3", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "2", "s": "" },
+            { "l": "3", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ],
+      "8": [
+        {
+          "name": "Leon",
+          "char": "politician",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "Shawn",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": true,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "干扰项", "s": "fortuneteller" }]
+        },
+        {
+          "name": "Zhi Xuan",
+          "char": "poisoner",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "2", "s": "" },
+            { "l": "8", "s": "" },
+            { "l": "8", "s": "" }
+          ]
+        },
+        {
+          "name": "RH",
+          "char": "imp",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "15", "s": "" },
+            { "l": "7", "s": "" },
+            { "l": "8", "s": "" }
+          ]
+        },
+        {
+          "name": "Wei Kit",
+          "char": "general",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": true,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "均", "s": "" },
+            { "l": "均", "s": "" },
+            { "l": "邪", "s": "" },
+            { "l": "善", "s": "" }
+          ]
+        },
+        {
+          "name": "Loon",
+          "char": "fisherman",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "相信7号", "s": "" }]
+        },
+        {
+          "name": "Terry",
+          "char": "heretic",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "死亡", "s": "imp" }]
+        },
+        {
+          "name": "Max",
+          "char": "fortuneteller",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "7 9 否", "s": "" },
+            { "l": "5 10 有", "s": "" },
+            { "l": "8 10 有", "s": "" }
+          ]
+        },
+        {
+          "name": "Jiayi",
+          "char": "alchemist",
+          "traveller": false,
+          "alive": true,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "精神病", "s": "" },
+            { "l": "15", "s": "" },
+            { "l": "14", "s": "" },
+            { "l": "13", "s": "" },
+            { "l": "12", "s": "" }
+          ]
+        },
+        {
+          "name": "Kenny",
+          "char": "snakecharmer",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "1", "s": "" },
+            { "l": "2", "s": "" },
+            { "l": "3", "s": "" }
+          ]
+        },
+        {
+          "name": "Hui Yin",
+          "char": "tealady",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": []
+        },
+        {
+          "name": "MaxPng",
+          "char": "poppygrower",
+          "traveller": false,
+          "alive": false,
+          "ghost": true,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "哲学家", "s": "" }]
+        },
+        {
+          "name": "Lee",
+          "char": "fearmonger",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "13", "s": "" }]
+        },
+        {
+          "name": "Wardell",
+          "char": "juggler",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [
+            { "l": "13 恶魔", "s": "" },
+            { "l": "13 lizi", "s": "" },
+            { "l": "9炼金", "s": "" },
+            { "l": "13 恐惧", "s": "" },
+            { "l": "13 哥布林", "s": "" }
+          ]
+        },
+        {
+          "name": "Puran",
+          "char": "psychopath",
+          "traveller": false,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": null,
+          "pid": null,
+          "rem": [{ "l": "11", "s": "" }]
+        },
+        {
+          "name": "Grayson",
+          "char": "scapegoat",
+          "traveller": true,
+          "alive": false,
+          "ghost": false,
+          "poison": false,
+          "drunk": false,
+          "align": "evil",
+          "pid": null,
+          "rem": []
+        }
+      ]
+    }
+  }
+}
