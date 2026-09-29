@@ -946,7 +946,7 @@
           "traveller": false,
           "alive": true,
           "ghost": false,
-          "poison": true,
+          "poison": false,
           "drunk": false,
           "align": null,
           "pid": null,
@@ -1532,7 +1532,7 @@
           "align": null,
           "pid": null,
           "rem": [
-            { "l": "1", "s": "" },
+            { "l": "11", "s": "" },
             { "l": "4", "s": "" },
             { "l": "4", "s": "" }
           ]
@@ -1742,7 +1742,11 @@
           "drunk": false,
           "align": null,
           "pid": null,
-          "rem": []
+          "rem": [
+            { "l": "11", "s": "" },
+            { "l": "4", "s": "" },
+            { "l": "4", "s": "" }
+          ]
         },
         {
           "name": "Max",
@@ -1750,7 +1754,7 @@
           "traveller": false,
           "alive": true,
           "ghost": false,
-          "poison": true,
+          "poison": false,
           "drunk": false,
           "align": null,
           "pid": null,
