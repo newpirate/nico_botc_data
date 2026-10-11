@@ -21,6 +21,13 @@
       "nameEn": "September 2026",
       "active": true,
       "created": "2026-09-29T17:41:01.810918"
+    },
+    {
+      "id": "league_3",
+      "name": "Pokiyami 第一季",
+      "nameEn": "Pokiyami Season 1",
+      "active": true,
+      "created": "2026-10-11T22:45:19.437296"
     }
   ],
   "players": [
