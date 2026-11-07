@@ -394,6 +394,61 @@
   ],
   "games": [
     {
+      "id": "1794047299760012",
+      "league": "league_3",
+      "ended": "2026-11-07T18:28:19.760012",
+      "title": "",
+      "winner": "good",
+      "mvp": "p_mt1bbctf6890",
+      "seats": [
+        {
+          "p": "p_mt1bffbd6d7e",
+          "side": "good",
+          "i": 0
+        },
+        {
+          "p": "p_mtfcagbd7756",
+          "side": "good",
+          "i": 1
+        },
+        {
+          "p": "p_mt1baobq6dcf",
+          "side": "good",
+          "i": 2
+        },
+        {
+          "p": "p_mvo16uqp2aa8",
+          "side": "evil",
+          "i": 3
+        },
+        {
+          "p": "p_mw6e6cby4a50",
+          "side": "good",
+          "i": 4
+        },
+        {
+          "p": "p_mvo16q23bc11",
+          "side": "evil",
+          "i": 5
+        },
+        {
+          "p": "p_mt1b8ufjd3b9",
+          "side": "good",
+          "i": 6
+        },
+        {
+          "p": "p_mt1b83hve3e0",
+          "side": "good",
+          "i": 7
+        },
+        {
+          "p": "p_mt1bbctf6890",
+          "side": "good",
+          "i": 8
+        }
+      ]
+    },
+    {
       "id": "1794044175559500",
       "league": "league_3",
       "ended": "2026-11-07T17:36:15.559500",
